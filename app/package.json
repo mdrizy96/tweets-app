@@ -1,0 +1,12 @@
+{
+  "name": "tweets-app",
+  "version": "0.0.0",
+  "description": "Learning web dev",
+  "main": "app.js",
+  "author": "Mdrizy96",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.6.0",
+    "body-parser": "~1.4.3"
+  }
+}
